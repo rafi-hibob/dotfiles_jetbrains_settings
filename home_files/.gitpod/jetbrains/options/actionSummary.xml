@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1734528023149" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1734528094132" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1734528023347" />
+    </e>
+    <e n="FindInPath">
+      <i c="3" l="1734528048874" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1734528106210" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1734528051061" />
+    </e>
+  </component>
+</application>
